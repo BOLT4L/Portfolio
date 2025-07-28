@@ -25,7 +25,7 @@ const HeroSection = () => {
             </span>
           </h1>
           <p className="text-xl lg:text-2xl text-muted-foreground mb-8 max-w-lg">
-            Software Engineer & Full Stack Developer 
+            Software Engineer 
           </p>
           <div className="flex gap-4">
             <button 
